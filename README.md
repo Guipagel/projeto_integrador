@@ -3,3 +3,6 @@
 
 # link calculo de fatorial
 - https://pt.numberempire.com/combinatorialcalculator.php
+
+# link JDBC
+- https://www.ntu.edu.sg/home/ehchua/programming/java/JDBC_Basic.html
