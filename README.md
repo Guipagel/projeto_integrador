@@ -10,3 +10,7 @@
 # sql lite
 
 - https://www.sqlitetutorial.net/sqlite-java/
+
+# porcentagem dos jogos
+
+- 42 - 12 - 10 - 9 - 8 - 7 - 5 - 4 - 2 - 1
